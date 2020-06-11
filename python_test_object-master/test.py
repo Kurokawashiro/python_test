@@ -24,5 +24,6 @@ def fizzbuzz(file_str = './input.txt'):
     if res_str=="":
         res_str = m
 
-
+    print(res_str)
     return res_str
+fizzbuzz()
